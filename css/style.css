@@ -756,6 +756,7 @@ blockquote {
     transition: none;
 }
 #header .logos img{
+    padding-top: 3px;
     max-width: 100%;
 }
 
@@ -786,7 +787,7 @@ blockquote {
 }
 /* MAIN NAV **************************/
 .main-nav>ul>li{ display: inline-block; }
-.main-nav>ul>li>a{ color: #8c8c8c; }
+.main-nav>ul>li>a{ color: #4d4d4d; }
 .main-nav>ul{
     font-size: 13px;
     text-transform: uppercase;
@@ -827,7 +828,7 @@ blockquote {
     width: 50%;
 }
 #header.sticky-header .main-nav>ul>li>a{
-    line-height: 60px;
+    line-height: 80px;
 }
 #header.sticky-header .main-nav>ul>li>a:before{
     top: 15px;
